@@ -1,4 +1,9 @@
 /* Write your CSS here! */
+.header,
+.primary-content {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
 
 /* Do not change the CSS below. */
 
